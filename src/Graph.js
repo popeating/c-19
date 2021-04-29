@@ -110,6 +110,9 @@ function Graph({ nazionale_p, regionidet, current }) {
               <MenuItem value="14">Ultimi 14 giorni</MenuItem>
               <MenuItem value="7">Ultimi 7 giorni </MenuItem>
               <MenuItem value="30">Ultimi 30 giorni</MenuItem>
+              <MenuItem value="180">Ultimi 180 giorni</MenuItem>
+              <MenuItem value="365">Ultimi 365 giorni</MenuItem>
+              <MenuItem value="420">Ultimi 420 giorni</MenuItem>
             </Select>
           </FormControl>
         </Grid>
